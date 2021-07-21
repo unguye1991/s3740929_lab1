@@ -1,1 +1,1 @@
-This is labtest.
+This simple Java file is for testing git commands and simple JUnit test cases.
